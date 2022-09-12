@@ -1,0 +1,45 @@
+
+---Downloaded files---
+The import files for: Theme Demo Content were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://www.megacon.id
+Data file = /home/megacon/public_html/wp-content/themes/best-education/demo-content/best-education.xml
+Widget file = /home/megacon/public_html/wp-content/themes/best-education/demo-content/best-education.wie
+Customizer file = /home/megacon/public_html/wp-content/themes/best-education/demo-content/best-education.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Main Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+BE: Social Menu Widget - SOCIAL - Imported
+Categories - No Title - Widget already exists
+
+Footer Column One : 
+
+Text - About Best Education - Imported
+
+Footer Column Two : 
+
+Navigation Menu - Quick Links - Imported
+
+Footer Column Three : 
+
+BE: Message Widget - Message From Dean - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
