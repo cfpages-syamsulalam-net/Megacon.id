@@ -2,7 +2,8 @@ name: Insert .head Content v2
 on:
   push:
     paths:
-      - .head
+      - .head  # Trigger when the .head file is modified
+  workflow_dispatch:    # Allows manual triggering
 permissions:
   contents: write
 jobs:
